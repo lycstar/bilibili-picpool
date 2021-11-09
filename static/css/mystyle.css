@@ -1,6 +1,7 @@
 body{
     background-image:url('https://www.cdnjson.com/images/2021/11/09/71490212_p0_g.md.png');
     background-size: cover;
+    background-attachment: fixed;
     background-color: #202020;
 }
 @media screen and (max-width:640px) {
