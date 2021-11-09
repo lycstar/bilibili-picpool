@@ -8,7 +8,7 @@ from werkzeug.utils import secure_filename
 from flask import Flask, url_for, request, redirect, render_template
 
 # 启动flask
-app = Flask(__name__)
+app = Flask(__name__, static_folder='web', template_folder='web', static_url_path='')
 
 # 定义图片的保存路径
 base_path = os.path.join(os.path.dirname(__file__), "static", "img")
