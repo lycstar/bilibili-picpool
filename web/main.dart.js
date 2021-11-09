@@ -35631,7 +35631,7 @@ $iv:1}
 P.Mq.prototype={}
 P.Mr.prototype={}
 F.DX.prototype={
-H(a,b){return new S.ul(C.F7,"Bibibili\u56fe\u5e8a",X.adm(null,C.ox),null)}}
+H(a,b){return new S.ul(C.F7,"Bilibili\u56fe\u5e8a",X.adm(null,C.ox),null)}}
 F.uA.prototype={
 as(){var s=new U.Re(null,new L.Dg(H.a([],t.lC),new L.uf(),new L.uf(),new L.uf()),null,new Q.R4(),!1),r=B.aq5()
 s.d8$=r
@@ -35694,7 +35694,7 @@ q=K.AD(1)
 return M.dw(o,T.p6(H.a([r,new T.jR(1,C.cJ,M.dw(o,L.dW(b,1,C.bO,C.Ks,o),C.n,o,new S.an(200,s.a.a/2,0,1/0),new S.dd(C.k,o,o,q,o,o,C.X),o,o,o,C.j0,C.Aq,o,o,o),o),U.adj(C.KV,new F.a71(p,b))],t.D),C.aq,C.ak,C.cd),C.n,o,o,new S.dd(m.b,o,o,n,o,o,C.X),o,o,o,C.Ao,C.Ar,o,o,o)},
 H(a,b){var s,r,q,p,o,n=this,m=null
 n.a.toString
-s=L.dW("Bibibili\u56fe\u5e8a",m,m,m,m)
+s=L.dW("Bilibili\u56fe\u5e8a",m,m,m,m)
 r=t.D
 s=E.Aq(H.a([B.V1(m,C.AW,24,new F.a78(b),m)],r),m,!0,m,m,m,1,m,m,m,!1,m,m,m,m,m,!0,m,m,m,m,s,m,m,m,1,m)
 q=D.agu(m,m,m,m,m,m,m,m,m,m,C.At,m,m,m,m,m,m,C.KB,m)
